@@ -5,7 +5,7 @@
 * C/C++
 * Web development (HTML, CSS Js)
 * React
-# Contact me at samaelchavez00@gmail.com
+### Contact me at samaelchavez00@gmail.com
 
 
 
